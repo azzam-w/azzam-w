@@ -1,6 +1,12 @@
-## Hi there 👋
+### Hi there 👋, azzam saeed
+#### fullStack web developer
+![fullStack web developer](https://pbs.twimg.com/profile_banners/1495856123651493888/1789427333/600x200)
 
-Full-Stack Web Developer | React.js • Node.js • Express.js • MySQL
-I'm a Full-Stack Web Developer passionate about building modern, scalable, and user-focused web applications. I enjoy turning ideas and real-world problems into practical digital solutions through clean, efficient, and maintainable code.
-My main focus is on developing complete web applications, from designing responsive and intuitive user interfaces to building robust backend systems, APIs, databases, authentication, and business logic.
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=azzam-w)](https://github.com/stats-organization/github-stats-extended)
+Full-Stack Web Developer | React.js • Node.js • Express.js • MySQL I'm a Full-Stack Web Developer passionate about building modern, scalable, and user-focused web applications. I enjoy turning ideas and real-world problems into practical digital solutions through clean, efficient, and maintainable code. My main focus is on developing complete web applications, from designing responsive and intuitive user interfaces to building robust backend systems, APIs, databases, authentication, and business logic.
+
+Skills:  REACT / JS / HTML / CSS / NODEJS / EXPRESSJS / MYSQL
+
+- 🔭 I’m currently working on Freelancer 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/azzam-w2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/عزام شنور)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/azzam_.sh/)  
