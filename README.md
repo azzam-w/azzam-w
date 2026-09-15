@@ -14,7 +14,7 @@ Full-Stack Web Developer | React.js • Node.js • Express.js • MySQL I'm a F
 ## 🔭 I’m currently working on Freelancer 
 
 * ## Examples of Work
-* <img src="https://github.com/azzam-w/Resturant/blob/main/img/about-1.jpg" width="220" />
+* <img src="https://github.com/azzam-w/Resturant/blob/main/img/about-1.jpg" width="220" /> <img src="https://github.com/azzam-w/weatherapp/blob/main/images/clear.png" width="200" />
 
 
 
